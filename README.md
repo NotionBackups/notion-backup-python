@@ -14,4 +14,4 @@ To run the script:
 python3 backup.py
 ```
 
-You can read more about this on [Notion Backups's blog](https://notionbackups.com/blog/automated-notion-backup-api)
+You can read more about this on [Notion Backups's blog](https://notionbackups.com/guides/automated-notion-backup-api)
